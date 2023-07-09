@@ -16,6 +16,7 @@
 		F4E9689A2A5B12EE005F2821 /* Rock___Paper___Scissors_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E968992A5B12EE005F2821 /* Rock___Paper___Scissors_2Tests.swift */; };
 		F4E968A42A5B12EE005F2821 /* Rock___Paper___Scissors_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E968A32A5B12EE005F2821 /* Rock___Paper___Scissors_2UITests.swift */; };
 		F4E968A62A5B12EE005F2821 /* Rock___Paper___Scissors_2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E968A52A5B12EE005F2821 /* Rock___Paper___Scissors_2UITestsLaunchTests.swift */; };
+		F4E968B32A5B1965005F2821 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4E968B22A5B1965005F2821 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F4E9689F2A5B12EE005F2821 /* Rock - Paper - Scissors 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rock - Paper - Scissors 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4E968A32A5B12EE005F2821 /* Rock___Paper___Scissors_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rock___Paper___Scissors_2UITests.swift"; sourceTree = "<group>"; };
 		F4E968A52A5B12EE005F2821 /* Rock___Paper___Scissors_2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rock___Paper___Scissors_2UITestsLaunchTests.swift"; sourceTree = "<group>"; };
+		F4E968B22A5B1965005F2821 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				F4E968822A5B12EC005F2821 /* AppDelegate.swift */,
 				F4E968842A5B12EC005F2821 /* SceneDelegate.swift */,
 				F4E968862A5B12EC005F2821 /* ViewController.swift */,
+				F4E968B22A5B1965005F2821 /* ResultViewController.swift */,
 				F4E968882A5B12EC005F2821 /* Main.storyboard */,
 				F4E9688B2A5B12EE005F2821 /* Assets.xcassets */,
 				F4E9688D2A5B12EE005F2821 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				F4E968872A5B12EC005F2821 /* ViewController.swift in Sources */,
 				F4E968832A5B12EC005F2821 /* AppDelegate.swift in Sources */,
 				F4E968852A5B12EC005F2821 /* SceneDelegate.swift in Sources */,
+				F4E968B32A5B1965005F2821 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
